@@ -180,7 +180,9 @@
 						</div>
 
 						<div class="col-md-6 mb-3">
-							<label>휴대전화 <span style="color:red;">*</span></label><br> <select name="phone_head">
+							<label>휴대전화 <span style="color:red;">*</span></label><br>
+							
+							 <select name="phone_head">
 								<option value="010">010</option>
 								<option value="011">011</option>
 								<option value="018">018</option>
